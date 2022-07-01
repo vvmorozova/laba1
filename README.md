@@ -1,2 +1,2 @@
-# Лабораторная работа по ООП 3 курс ИВТ МИЭМ НИУ ВШЭ
-В данной работе было не обходимо создать методы для работы с комплексными числамию
+# Laboratory work 3-rd year HSE MIEM | Information Science and Computation Technology
+Learning how to create methods (+, -, :, *) to work with complex numbers.
